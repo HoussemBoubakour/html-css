@@ -1,0 +1,39 @@
+<style>
+.body{
+  
+}
+    #main{
+      font-family: 'Josefin Sans', sans-serif;
+      background-color:#D5DFE5;
+    }
+    #title{
+    text-align:center;
+    font-size:30px;
+      font-family: 'Anton', sans-serif;
+      background-color:#C9B1BD;
+      margin:10px;
+    }
+    #image{
+    max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+      border:solid;
+    }
+    #img-div{
+      
+    }
+    #img-caption{
+        font-family: 'Josefin Sans', sans-serif;
+        text-align:center;
+        margin:10px;
+    }
+    #tribute-info{
+      font-family: 'Josefin Sans', sans-serif;
+      background-color:#C9B1BD;
+      padding:4em;
+    }
+    #tribute-link{
+  
+    }
+  </style>
